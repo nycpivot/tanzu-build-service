@@ -1,0 +1,2 @@
+dotnet-build:
+  project-path: "src/Tbs.Core.Web.Mvc"

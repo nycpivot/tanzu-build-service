@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Diagnostics;
-using Tbs.Core.Web.Mvc.v31.Models;
+using Tbs.Core.Web.Mvc.Models;
 
-namespace Tbs.Core.Web.Mvc.v31.Controllers
+namespace Tbs.Core.Web.Mvc.Controllers
 {
     public class HomeController : Controller
     {

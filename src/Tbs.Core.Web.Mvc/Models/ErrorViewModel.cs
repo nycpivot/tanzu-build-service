@@ -1,6 +1,4 @@
-using System;
-
-namespace Tbs.Core.Web.Mvc.v31.Models
+namespace Tbs.Core.Web.Mvc.Models
 {
     public class ErrorViewModel
     {
